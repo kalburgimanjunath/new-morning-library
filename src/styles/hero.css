@@ -1,0 +1,6 @@
+.hero h1 {
+  @apply font-bold text-2xl mt-2 mb-2;
+}
+.hero h3 {
+  @apply text-xs mt-2 mb-2;
+}

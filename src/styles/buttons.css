@@ -1,0 +1,6 @@
+.primary-button {
+  @apply bg-blue-300 rounded-lg mt-4 mb-2 p-2;
+}
+.secondary-button {
+  @apply bg-green-300 rounded-lg mt-4 mb-2 p-2;
+}
