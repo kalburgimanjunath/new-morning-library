@@ -10,6 +10,7 @@ export default function Teams({
           <img width="100%" height="30%" src={image} />
         </div>
         <h3>{title}</h3>
+        <h6>{subtitle}</h6>
         <div>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
           molestiae nihil ab nulla eaque repellat doloremque doloribus fugiat
@@ -22,6 +23,7 @@ export default function Teams({
           <img width="100%" height="30%" src={image} />
         </div>
         <h3>{title}</h3>
+        <h6>{subtitle}</h6>
         <div>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
           molestiae nihil ab nulla eaque repellat doloremque doloribus fugiat
@@ -34,6 +36,7 @@ export default function Teams({
           <img width="100%" height="30%" src={image} />
         </div>
         <h3>{title}</h3>
+        <h6>{subtitle}</h6>
         <div>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
           molestiae nihil ab nulla eaque repellat doloremque doloribus fugiat
